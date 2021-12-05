@@ -2,7 +2,7 @@
 # Website Link: https://simonsrandomforzacargenerator.netlify.app/
 Created to complete a part of the assignment called Lab 4 for the CUNY Brooklyn College course named CISC 3140
 
-Link used to deploy and host website: https://www.netlify.com/
+Link to tool used to deploy and host website: https://www.netlify.com/
 
 Purpose of assignment:
 Learning how to create a styled Dynamic web page
